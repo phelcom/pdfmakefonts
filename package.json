@@ -1,6 +1,6 @@
 {
   "name": "pdfmakefonts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "roboto mono fonts and some roboto fonts",
   "main": "index.js",
   "scripts": {
